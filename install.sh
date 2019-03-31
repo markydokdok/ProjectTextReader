@@ -38,5 +38,5 @@ echo "Crontab entry installed for pi userid. OK"
 # FINISHED!
 echo "Finished installation. See Readme.md for more info"
 echo "Reboot your pi now:  $ sudo reboot"
-echo 
+echo sudo reboot
 
